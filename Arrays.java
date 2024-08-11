@@ -2,7 +2,7 @@ public class Arrays {
     public static void main(String[] arguments) {
 
         // Arrays sind eine Ansammlung von Werten in einem Behälter
-        int[] integerArray = { 3, 7, 10, 2};
+        int[] integerArray = { 3, 7, 10, 2 };
         
         String[] stringArray = { "Hans", "Marie", "Lukas" };
 

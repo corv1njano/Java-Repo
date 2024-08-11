@@ -56,7 +56,7 @@ public class MehrDimensionalesArray {
             }
         };
 
-        // 2D Array auslesen
+        // 3D Array auslesen
         for (int i = 0; i < dreiDimensionen.length; i++) { // das erste durchgehen (gibt 2 Arrays in diesem Array)
             for (int j = 0; j < dreiDimensionen[i].length; j++) { // die beiden Arrays durchgehen (jedes hat 3 weitere Arrays)
                 for (int k = 0; k < dreiDimensionen[i][j].length; k++) { // jedes Element der 3 Arrays durchgehen

@@ -7,7 +7,6 @@ import de.hs_kl.oo.assignment.assignment3.animals.Pig;
 
 public class Stable {
 	final String type;
-	// das muss static sein, sonst geht es nicht
 	public ArrayList<Cow> cows = new ArrayList<>();
 	public ArrayList<Pig> pigs = new ArrayList<>();
 
